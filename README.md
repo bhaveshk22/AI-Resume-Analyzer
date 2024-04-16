@@ -11,7 +11,10 @@ This project is an AI-powered resume analyzer that uses natural language process
 
 ## Screenshots
 
-![Screenshot1](https://github.com/bhaveshk22/AI-Resume-Analyzer/assets/141263853/01bacdb1-8138-48ed-a9fa-bc33a3e0311e)              ![Screenshot2](https://github.com/bhaveshk22/AI-Resume-Analyzer/assets/141263853/b5b38a05-9c95-41c5-b2b1-9a3a1a3a8f10)
+![Screenshot1](https://github.com/bhaveshk22/AI-Resume-Analyzer/assets/141263853/01bacdb1-8138-48ed-a9fa-bc33a3e0311e)              
+
+
+![Screenshot2](https://github.com/bhaveshk22/AI-Resume-Analyzer/assets/141263853/b5b38a05-9c95-41c5-b2b1-9a3a1a3a8f10)
 
 
 
