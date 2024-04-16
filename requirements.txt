@@ -1,0 +1,10 @@
+pdfminer3
+pyresparser
+streamlit
+pandas
+yt-dlp
+pymysql
+streamlit-tags
+Pillow
+spacy==2.3.5
+nltk
