@@ -95,4 +95,4 @@ I'm a Full Stack Data Scientist
 
 💬 more details loading
 
-![Logo](https://hybrid-results-kathy-digit.trycloudflare.com/card?user=bhaveshk22)
+![Logo](https://slide-vocabulary-mens-countries.trycloudflare.com/card?user=bhaveshk22)
