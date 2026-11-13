@@ -95,4 +95,4 @@ I'm a Full Stack Data Scientist
 
 💬 more details loading
 
-![Logo](https://opt-tournament-visiting-booth.trycloudflare.com/card?user=bhaveshk22)
+![Logo](https://cancel-tampa-holding-sea.trycloudflare.com/card?user=bhaveshk22)
